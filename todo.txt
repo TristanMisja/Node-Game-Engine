@@ -1,0 +1,3 @@
+ - Replace std::endl with \n
+ - Remove using std; from global scope
+ - Put configuration (max fps, window size, wireframe, etc.) in struct
